@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "120459492036",
+    "project_id": "gurujiapp-d246f",
+    "storage_bucket": "gurujiapp-d246f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120459492036:android:0d20252230bd3be0aea791",
+        "android_client_info": {
+          "package_name": "com.guruji"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFjIx9KRiqmVZkSRentAs_4pzydCW-xeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120459492036:android:1862cd891fa5b660aea791",
+        "android_client_info": {
+          "package_name": "com.guruji.shreeramkatha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFjIx9KRiqmVZkSRentAs_4pzydCW-xeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

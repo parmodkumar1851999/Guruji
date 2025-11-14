@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_servererorr.gif.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_servererorr.gif"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_gurujiimg.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_gurujiimg.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_module_assets_searchicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_module_assets_searchicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xxxhdpi_node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xxxhdpi/node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_errorhandel.gif.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_errorhandel.gif"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_node_modules_reactnavigation_elements_lib_module_assets_backiconmask.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/node_modules_reactnavigation_elements_lib_module_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_module_assets_backicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_module_assets_backicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_gurujieventimg.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_gurujieventimg.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xxhdpi_node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xxhdpi/node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_module_assets_closeicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_module_assets_closeicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_ebooksideimg02.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_ebooksideimg02.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_module_assets_clearicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_module_assets_clearicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_module_assets_searchicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_module_assets_searchicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_backiconmask.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_ebooksideimg01.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_ebooksideimg01.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_module_assets_searchicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_module_assets_searchicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_cardimg01.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_cardimg01.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_ebookdownloadimg.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_ebookdownloadimg.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_ebookrightimg02.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_ebookrightimg02.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_ebook.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_ebook.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_offericonimg02.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_offericonimg02.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_module_assets_closeicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_module_assets_closeicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_ebook01.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_ebook01.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_sliderimg01.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_sliderimg01.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_offercloseimg.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_offercloseimg.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_gurujicardimg.jpeg.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_gurujicardimg.jpeg"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_event.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_event.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_videos.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_videos.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_sliderimg02.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_sliderimg02.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_congratulations.gif.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_congratulations.gif"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_ebookrightimg01.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_ebookrightimg01.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_ebook02.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_ebook02.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_module_assets_clearicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_module_assets_clearicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_home.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_home.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_module_assets_closeicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_module_assets_closeicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_homeyoutubevideoimg.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_homeyoutubevideoimg.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_node_modules_reactnavigation_elements_lib_module_assets_searchicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/node_modules_reactnavigation_elements_lib_module_assets_searchicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_module_assets_clearicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_module_assets_clearicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_offericonimg01.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_offericonimg01.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_sliderimg03.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_sliderimg03.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xxxhdpi_node_modules_reactnavigation_elements_lib_module_assets_backicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xxxhdpi/node_modules_reactnavigation_elements_lib_module_assets_backicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_node_modules_reactnavigation_elements_lib_module_assets_closeicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/node_modules_reactnavigation_elements_lib_module_assets_closeicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_node_modules_reactnavigation_elements_lib_module_assets_clearicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/node_modules_reactnavigation_elements_lib_module_assets_clearicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_closeicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_backicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xxhdpi_node_modules_reactnavigation_elements_lib_module_assets_backicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xxhdpi/node_modules_reactnavigation_elements_lib_module_assets_backicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_youtubeinsideinnerimg.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_youtubeinsideinnerimg.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_youtubeinsideimg.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_youtubeinsideimg.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_enventimg01.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_enventimg01.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-hdpi_node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-hdpi/node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_offerbgimg.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_offerbgimg.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_splashimg.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_splashimg.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xhdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xhdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_profile.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_profile.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_node_modules_reactnavigation_elements_lib_module_assets_backicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/node_modules_reactnavigation_elements_lib_module_assets_backicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_clearicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-xhdpi_node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-xhdpi/node_modules_reactnavigation_nativestack_node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/node_modules_reactnavigation_elements_lib_commonjs_assets_searchicon.png"
+    },
+    {
+        "merged": "com.guruji.shreeramkatha.app-debug-59:/drawable-mdpi_src_assets_images_errorinternnetgif.gif.flat",
+        "source": "com.guruji.shreeramkatha.app-main-61:/drawable-mdpi/src_assets_images_errorinternnetgif.gif"
+    }
+]

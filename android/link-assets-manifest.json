@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "Src/Assets/Fonts/InterBold700.ttf",
+      "sha1": "327abbf74a5d71ffa8d888d976234cb11dabf194"
+    },
+    {
+      "path": "Src/Assets/Fonts/InterLight300.ttf",
+      "sha1": "a67e1cb8acb26c3b95fa9c2c49f6d43141c491bb"
+    },
+    {
+      "path": "Src/Assets/Fonts/InterMedium500.ttf",
+      "sha1": "3b9f3360ca812f2076db0bfc8bed4cfdd951e74f"
+    },
+    {
+      "path": "Src/Assets/Fonts/InterRegular400.ttf",
+      "sha1": "b9984093c0b2b612da5e58e4d4e1ba8c255353dc"
+    },
+    {
+      "path": "Src/Assets/Fonts/PoppinsBold700.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "Src/Assets/Fonts/PoppinsLight300.ttf",
+      "sha1": "e247a92158e112f8bf7b638c8d95381d66b00dbb"
+    },
+    {
+      "path": "Src/Assets/Fonts/PoppinsMedium500.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "Src/Assets/Fonts/PoppinsRegular400.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    }
+  ]
+}

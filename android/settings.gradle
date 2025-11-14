@@ -1,0 +1,9 @@
+pluginManagement { includeBuild("../node_modules/@react-native/gradle-plugin") }
+plugins { id("com.facebook.react.settings") }
+extensions.configure(com.facebook.react.ReactSettingsExtension){ ex -> ex.autolinkLibrariesFromCommand() }
+rootProject.name = 'Guruji'
+include ':app'
+includeBuild('../node_modules/@react-native/gradle-plugin')
+include ':react-native-async-storage'
+include ':react-native-device-info'
+include ':react-native-firebase'
